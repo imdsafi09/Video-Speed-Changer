@@ -18,3 +18,6 @@ A desktop GUI app (built in Python with Tkinter) to easily speed up or slow down
 
 ```bash
 pip install -r requirements.txt
+
+```bash
+python run.py
