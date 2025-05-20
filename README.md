@@ -20,3 +20,7 @@ A desktop GUI app (built in Python with Tkinter) to easily speed up or slow down
 pip install -r requirements.txt
 
 python run.py
+
+## 🖼️ App Preview
+
+![Video Speed Changer Preview](assets/speed_gui.png)
