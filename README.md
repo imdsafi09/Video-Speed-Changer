@@ -10,7 +10,9 @@ A desktop GUI app (built in Python with Tkinter) to easily speed up or slow down
 - Open folder after saving
 - Cross-platform compatible (Windows/Linux/macOS)
 - Icon-supported desktop UI
+## 🖼️ App Preview
 
+![Video Speed Changer Preview](assets/speed_gui.png)
 ## 📦 Requirements
 
 - Python 3.7+
@@ -21,6 +23,4 @@ pip install -r requirements.txt
 
 python run.py
 
-## 🖼️ App Preview
 
-![Video Speed Changer Preview](assets/speed_gui.png)
